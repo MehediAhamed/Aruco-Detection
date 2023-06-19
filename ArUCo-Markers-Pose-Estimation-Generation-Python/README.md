@@ -1,4 +1,6 @@
 # ArUCo-Markers-Pose-Estimation-Generation-Python
+pip install opencv-contrib-python==4.5.5.64
+
 
 This repository contains all the code you need to generate an ArucoTag,
 detect ArucoTags in images and videos, and then use the detected tags
